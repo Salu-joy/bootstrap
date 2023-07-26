@@ -1,0 +1,64 @@
+
+
+body
+{
+  (https://fonts.google.com/specimen/Inter)
+}
+.sidebox {
+  padding: 2rem;
+  background-color: hsl(240, 100%, 5%);
+}
+.col-md-4 {
+  background-color: hsl(240, 100%, 5%);
+  color: aliceblue;
+}
+.new {
+  color: hsl(35, 77%, 62%);
+
+  font-size: larger;
+}
+.bright-future {
+  font-size: 60px;
+  font-weight: 950;
+  font-style: normal;
+  line-height-step: 2rem;
+}
+.next-evolution {
+  color: hsl(236, 13%, 42%);
+}
+.button {
+  background-color: hsl(5, 85%, 63%);
+
+  display: flex;
+  justify-content: center;
+  color: aliceblue;
+  letter-spacing: 3px;
+  font-size: 0.5rem;
+  font-weight: 400;
+
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.col-md-6 {
+  padding-top: 2rem;
+}
+.paragraph {
+  justify-content: center;
+
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+}
+.h1 {
+  font-weight: 700;
+  color: hsl(36, 100%, 99%);
+  text-shadow: 12rem;
+}
+.p {
+  font-weight: 400;
+  color: hsl(233, 8%, 79%);
+}
+.nav-linkactive {
+  color: hsl(233, 8%, 79%);
+}
